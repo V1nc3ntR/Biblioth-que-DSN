@@ -1,0 +1,134 @@
+code;libellé;25/09/2024
+06;représentant exclusif
+07;représentant multicarte
+08;autre représentant
+09;Vendeur à domicile indépendant (VDI)
+37;cadet de golf
+38;agent immobilier rémunéré à la commission
+39;maîtres et documentalistes de l'enseignement privé
+40;colporteurs de presse
+42;autres populations du spectacle
+49;dockers avec carte G
+50;mannequin
+51;artiste de corrida
+52;chauffeur de taxi locataire de son véhicule
+53;interprète de conférence
+C643;coursier
+L643;chauffeurs livreurs
+NP352;journaliste non professionnel (sans carte de presse)
+P352;journaliste professionnel (avec carte de presse)
+C389M;cadres navigants commerciaux taux majoré
+C389N;cadres navigants commerciaux taux normal
+T389M;navigants techniques taux majoré
+T389N;navigants techniques taux normal
+546dM;hôtesses ou stewards taux majoré
+546dN;hôtesses ou stewards taux normal
+S001;Sportif professionnel dont le contrat de travail relève des articles L. 222-2-3 et suivants du code du sport
+AGTCDT;Agent de conduite
+AARC;Agent d'accompagnement d'un train de voyageurs et/ou de la relation client
+AGEN;Agent d'entretien
+APUI;Appui aux Projets
+ARSI;Architecte et Urbaniste des systèmes informatiques
+ASCO;Assistant/Assistante commercial opérationnel(le)
+CACM;Chargé/chargée d'affaires commercial et marketing
+CDES;Chef d'Escale
+CERC;Chef d'équipe Relation Client
+CGFI;Chargé de gestion ressources financières
+CGRH;Chargé de gestion Ressources Humaines
+CGRS;Chargé de gestion ressource/support
+CGSI;Chargé de gestion de site
+CHPI;chargé de production ingénierie
+CHRC;Chargé de la relation client
+CPMO;Chef de projet MOE
+CRLG;Conducteur ligne
+CRML;Conducteur manoeuvre, remonte et navette de fret de proximité
+CRTT;Conducteur de tram-train
+DEVL;Concepteur/Conceptrice/ Développeur/Développeuse
+DICO;Directeur commercial
+DIFE;Directeur/responsable d'activité ferroviaire
+DIRS;Directeur ressource/support
+DOCT;Médecin
+DOCU;Documentaliste
+DPXC;Manager de proximité Relation client
+DPXF;Manager de Proximité Fret
+DPXG;Manager de proximité Patrimoine
+DPXM;Manager de proximité Matériel
+DPXP;Manager de Proximité Production
+DPXT;Manager de proximité Conduite
+DPXV;Manager de proximité maintenance et travaux de l'infrastructure
+DPXX;Manager de proximité circulation/exploitation
+DUOC;Responsable d'unité Circulation/exploitation
+DUPC;Responsable de PC
+DUPF;Responsable de Production formation
+ESEC;Expert métier Sécurité
+FORM;Formateur/Formatrice
+GEPC;Gestionnaire PC
+GERF;Gestionnaire Ressources Financières
+GERH;Gestionnaire Ressources Humaines
+GERS;Gestionnaire ressource/support
+GSIL;Gestionnaire / Concepteur/Conceptrice sillons
+HQSE;Responsable HQSE
+IMOI;Ingénieur en maintenance et organisation industrielle
+MANU;Manutentionnaire
+MGSG;Manager Sûreté Ferroviaire
+OFCI;Opérateur ferroviaire circulation
+OFIN;Opérateur ferroviaire industrie
+OFMI;Opérateur de fabrication et/ou maintenance industrielle
+OMAT;Opérateur/Opératrice de maintenance des matériels et prestations associées
+OMIN;Opérateur/Opératrice de maintenance industrielle
+OMTI;Opérateur de maintenance et travaux de l'infrastructure
+OMTS;Opérateur de maintenance et travaux des systèmes électriques
+OMTT;Opérateur de maintenance et travaux des systèmes télécoms
+OPET;Opérateur de l'environnement de travail
+OPFR;Opérateur Fret au sol
+OPGA;Opérateur/Opératrice Patrimoine
+OPSG;Opérateur de la sûreté ferroviaire
+OPSS;Opérateur de production et de sécurité au sol
+RAFI;Responsable Affaires Immobilières
+RAPA;Responsable d'activité Patrimoine
+RCME;Responsable conception et/ou méthode
+RCMK;Responsable commercial et marketing
+REFI;Responsable ressources financières
+RERH;Responsable ressources humaines
+RESG;Responsable Sûreté Ferroviaire
+RESS;Gestionnaire moyens humains/matériels
+RFRE;Responsable Périmètre Fret
+RIDI;Responsable Informatique et Digital
+RING;Responsable ingénierie
+RMAT;Responsable d'Activité de Maintenance du Matériel Roulant
+RMED;Responsable Médical/Social
+RMOA;Responsable MOA / Pilote d'opération
+RMTI;Responsable d'Activité de Maintenance et de travaux de l'infrastructure
+RPSF;Responsable pôle de sécurité ferroviaire
+RRSU;Responsable ressource/support
+RSST;Régulateur sous stations
+RTQS;Référent Technique Qualité Sécurité
+RUVT;Responsable d'unité voyageurs transverse
+SCMF;Spécialiste commercial et marketing Fret
+SGPF;Spécialiste gestion de production fret
+SIDI;Spécialiste Informatique et Digital
+SMEP;Spécialiste Méthode Patrimoine
+SMIS;Spécialiste Maintenance Immobilières et Services
+SMTX;Spécialiste Méthode Planification Maintenance et travaux
+SPFI;Spécialiste ressources financières
+SPRH;Spécialiste ressources humaines
+SPRS;Spécialiste ressource/support
+SPSG;Spécialiste Sûreté ferroviaire
+TCCO;Technicien/Technicienne Commercial(e)
+TCEX;Technicien ferroviaire circulation
+TCFR;Technicien Commercial Fret
+TCGI;Technicien/Technicienne Informatique et Digital
+TCIM;Technicien/Technicienne Gestion Immobilière et Locative
+TCMA;Technicien/Technicienne de maintenance des Matériels
+TCME;Technicien/Technicienne Paramédical
+TCMT;Technicien de maintenance et travaux de l'infrastructure
+TCOR;Technicien en gestion de maintenance, ingénierie et organisation industrielle
+TCPA;Technicien/Technicienne Patrimoine
+TCSE;Technicien de maintenance et travaux des systèmes électriques
+TCSF;Technicien/Technicienne social et familial
+TCTE;Technicien de maintenance et travaux des systèmes télécoms
+TFFR;Technicien Fret
+TSFE;Technicien Sûreté ferroviaire
+REMT;Responsable d'Equipe Maintenance et Travaux
+RUAZ;Responsable d'unité /agence/zone
+999999;Non concerné

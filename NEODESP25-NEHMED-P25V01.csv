@@ -1,0 +1,72 @@
+code;libellé;25/09/2024
+1110;Professeur des universités-praticien hospitalier (PU-PH) sans activité libérale
+1111;Professeur des universités-praticien hospitalier (PU-PH) avec activité libérale
+1120;Maître de conférence des universités-praticien hospitalier (MCU-PH) sans activité libérale
+1121;Maître de conférence des universités-praticien hospitalier (MCU-PH) avec activité libérale
+1122;Chefs de travaux des universités-praticien hospitalier sans activité libérale (cadre d'extinction)
+1123;Chefs de travaux des universités-praticien hospitalier avec activité libérale (cadre d'extinction)
+1130;Assistant hospitalier universitaire (AHU) sans activité libérale
+1131;Assistant hospitalier universitaire (AHU) avec activité libérale
+1140;Chef de clinique des universités-assistants des hôpitaux (CCA) sans activité libérale
+1141;Chef de clinique des universités-assistants des hôpitaux (CCA) avec activité libérale
+1150;Praticien hospitalier universitaire (PHU) sans activité libérale
+1151;Praticien hospitalier universitaire (PHU) avec activité libérale
+1210;Professeur des universités-praticien hospitalier (PU-PH) des centres de soins, d'enseignements et de recherche dentaire sans activité libérale
+1211;Professeur des universités-praticien hospitalier (PU-PH) des centres de soins, d'enseignements et de recherche dentaire avec activité libérale
+1220;Maître de conférence des universités-praticien hospitalier (MCU-PH) des centres de soins, d'enseignements et de recherche dentaire sans activité libérale
+1221;Maître de conférence des universités-praticien hospitalier (MCU-PH) des centres de soins, d'enseignements et de recherche dentaire avec activité libérale
+1230;Assistant hospitalier universitaire (AHU) des centres de soins, d'enseignements et de recherche dentaire à temps partiel
+1231;Assistant hospitalier universitaire (AHU) des centres de soins, d'enseignements et de recherche dentaire à temps plein sans activité libérale
+1232;Assistant hospitalier universitaire (AHU) des centres de soins, d'enseignements et de recherche dentaire à temps plein avec activité libérale
+1233;Professeur (premier et deuxième grade) de chirurgie dentaire - odontologiste des services de consultations et de traitements dentaires (cadre d'extinction)
+1310;Professeur des universités-praticien hospitalier (PU-PH) des disciplines pharmaceutiques sans activité libérale
+1311;Professeur des universités-praticien hospitalier (PU-PH) des disciplines pharmaceutiques avec activité libérale
+1320;Maître de conférence des universités-praticien hospitalier (MCU-PH) des disciplines pharmaceutiques sans activité libérale
+1321;Maître de conférence des universités-praticien hospitalier (MCU-PH) des disciplines pharmaceutiques avec activité libérale
+1330;Assistant hospitalier universitaire (AHU) dans les disciplines biologiques, mixtes et pharmaceutiques sans activité libérale
+1331;Assistant hospitalier universitaire (AHU) dans les disciplines biologiques, mixtes et pharmaceutiques avec activité libérale
+1997;Praticiens hospitaliers «temps partiel» nommés chefs de service en application des dispositions statutaires les régissant avant le 1er janvier 1985
+1998;Praticiens hospitaliers «temps plein» nommés chefs de service en application des dispositions statutaires les régissant avant le 1er janvier 1985 sans activité libérale
+1999;Praticiens hospitaliers «temps plein» nommés chefs de service en application des dispositions statutaires les régissant avant le 1er janvier 1985 avec activité libérale
+2110;Praticien hospitalier associé à temps plein
+2120;Praticien hospitalier nommé à titre probatoire sans activité libérale
+2121;Praticien hospitalier nommé à titre probatoire avec activité libérale
+2125;Praticien hospitalier nommé à titre provisoire exerçant à temps plein
+2130;Praticien hospitalier exerçant à temps plein nommé à titre permanent sans activité libérale
+2131;Praticien hospitalier exerçant à temps plein nommé à titre permanent avec activité libérale
+2132;Praticien hospitalier et enseignant - chercheur des disciplines pharmaceutiques (autorisation de cumul)
+2220;Praticien hospitalier exerçant à temps partiel nommé à titre probatoire sans activité libérale
+2230;Praticien hospitalier exerçant à temps partiel nommé à titre permanent sans activité libérale
+2240;Praticien hospitalier exerçant à temps partiel nommé à titre provisoire
+2300;Assistant des hôpitaux à temps plein (généralistes et spécialistes)
+2310;Assistant associé des hôpitaux à temps plein (généralistes et spécialistes)
+2320;Assistant des hôpitaux à temps partiel (généralistes et spécialistes)
+2330;Assistant associé des hôpitaux à temps partiel (généralistes et spécialistes)
+2400;Praticien contractuel à temps plein (ancien statut)
+2410;Praticien contractuel à temps partiel (ancien statut)
+2500;Praticien adjoint contractuel (PAC) à temps plein
+2510;Praticien adjoint contractuel (PAC) à temps partiel
+2600;Praticien attaché
+2610;Praticien attaché associé
+222B;Praticien hospitalier exerçant à temps partiel nommé à titre probatoire avec activité libérale
+223B;Praticien hospitalier exerçant à temps partiel nommé à titre permanent avec activité libérale
+260A;Praticien attaché exerçant à temps plein (en extinction)
+260B;Praticien attaché n'exerçant pas à temps plein (en extinction)
+261A;Praticien attaché associé exerçant à temps plein
+261B;Praticien attaché associé exerçant à temps partiel
+270A;Clinicien hospitalier à temps plein
+270B;Clinicien hospitalier à temps partiel
+270C;Praticien contractuel à temps plein
+270D;Praticien contractuel à temps partiel
+281A;Praticien associé exerçant à temps plein
+281B;Praticien associé exerçant à temps partiel
+310A;Etudiant en médecine
+310B;Etudiant en pharmacie
+310C;Etudiant en odontologie
+310E;Etudiant en maïeutique Deuxième cycle
+320A;Internes et résidents en médecine
+320B;Internes en pharmacie
+320C;Internes en odontologie
+330A;Faisant fonction d'interne (FFI) et DIS (diplômes interuniversitaires de spécialité)
+340A;Docteurs juniors
+410A;Médecins coordonnateurs exerçant dans les EHPAD

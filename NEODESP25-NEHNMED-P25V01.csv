@@ -1,0 +1,543 @@
+code;libellé;date de début de validité;date de fin de validité;25/09/2024
+0010;Directeur général (13.03.2000);13/03/2000;06/08/2005
+0012;Directeur 1ère classe (13.03.2000);13/03/2000;06/08/2005
+0021;Directeur 2ème classe (13.03.2000);13/03/2000;06/08/2005
+0031;Directeur 3ème classe (13.03.2000);13/03/2000;06/08/2005
+0048;Directeur 4ème classe (01.07.1998) (en extinction);01/07/1998;06/08/2005
+0130;Pharmacien résident (cadre d'extinction);01/01/1900;
+0200;Directeur d'établissement social et médico-social emploi fonctionnel (r 01/2008);01/01/2002;01/01/2008
+0210;Médecin de médecine préventive;01/07/2007;
+0211;Directeur d'établissement social et médico-social de hors classe (r 01/2008);01/01/2002;01/01/2008
+0221;Directeur d'établissement social et médico-social de classe normale (r 01/2008);01/01/2002;01/01/2008
+0260;Elève directeur d'établissement social et médico-social (r 01/2008);01/01/2002;01/01/2008
+0300;Emploi fonctionnel / directeur général de CHR niveau 1;06/08/2005;11/05/2012
+0310;Emploi fonctionnel / directeur général de CHR niveau 2;06/08/2005;11/05/2012
+0315;Directeur général CHU (HEE);11/05/2012;
+0320;Emploi fonctionnel / directeur général adjoint de CHR;06/08/2005;27/04/2012
+0325;Directeur général CHU (HED);11/05/2012;
+0330;Emploi fonctionnel / directeur d'établissement fonctionnel;06/08/2005;27/04/2012
+0340;Directeur hors classe;06/08/2005;
+0342;Directeur de classe normale;06/08/2005;
+0344;Directeur de classe exceptionnelle;01/01/2015;
+0360;Directeur d'hôpital de classe provisoire (en voie d'extinction);06/08/2005;
+0365;Elève directeur;06/08/2005;
+0420;Attaché d'administration hors classe;01/01/2018;
+0421;Attaché principal d'administration hospitalière de 1ère classe;21/12/2001;08/08/2007
+0422;Attaché principal d'administration hospitalière de 2ème classe;21/12/2001;08/08/2007
+0423;Attaché principal d'administration hospitalière;08/08/2007;
+0430;Attaché d'administration hospitalière;21/12/2001;
+0530;Directeur d'établissement sanitaire et social emploi fonctionnel (r 01/2008);01/01/2002;01/01/2008
+0540;Directeur d'établissement sanitaire et social de hors classe ((r 01/2008);01/01/2002;01/01/2008
+0550;Directeur d'établissement sanitaire et social de classe normale ((r 01/2008);01/01/2002;01/01/2008
+0560;Elève directeur d'établissement sanitaire et social (r 01/2008);01/01/2002;01/01/2008
+0630;Emploi fonctionnel / directeur d'établissement sanitaire, social et médico-social;11/05/2012;
+0640;Directeur d'établissement sanitaire, social et médico-social de hors classe;01/01/2008;
+0650;Directeur d'établissement sanitaire, social et médico-social de classe normale (01/2008);01/01/2008;
+0660;Elève directeur d'établissement sanitaire, social et médico-social (01/2008);01/01/2008;
+0710;Emploi fonctionnel / groupe I;27/04/2012;
+0720;Emploi fonctionnel / groupe II;27/04/2012;
+0730;Emploi fonctionnel / groupe III;27/04/2012;
+1001;Infirmier cadre supérieur de santé paramédical;29/12/2012;
+1002;Infirmier de bloc opératoire cadre supérieur de santé paramédical;29/12/2012;
+1003;Infirmier anesthésiste cadre supérieur de santé paramédical;29/12/2012;
+1004;Puéricultrice cadre supérieur de santé paramédical;29/12/2012;
+1011;Pédicure-podologue cadre supérieur de santé paramédical;29/12/2012;
+1012;Masseur-kinésithérapeute cadre supérieur de santé paramédical;29/12/2012;
+1013;Ergothérapeute cadre supérieur de santé paramédical;29/12/2012;
+1014;Psychomotricien cadre supérieur de santé paramédical;29/12/2012;
+1015;Orthophoniste cadre supérieur de santé paramédical;29/12/2012;
+1016;Orthoptiste cadre supérieur de santé paramédical;29/12/2012;
+1017;Diététicien cadre supérieur de santé paramédical;29/12/2012;
+1021;Préparateur en pharmacie hospitalière cadre supérieur de santé paramédical;29/12/2012;
+1022;Technicien de laboratoire médical cadre supérieur de santé paramédical;29/12/2012;
+1023;Manipulateur d'électroradiologie médicale cadre supérieur de santé paramédical;29/12/2012;
+1251;Adjoint des cadres hospitaliers de classe normale;01/01/1990;16/06/2011
+1252;Adjoint des cadres hospitaliers de classe supérieure;01/01/1990;16/06/2011
+1253;Adjoint des cadres hospitaliers de classe exceptionnelle;01/01/1990;16/06/2011
+1261;Adjoint des cadres hospitaliers de classe exceptionnelle;16/06/2011;
+1262;Adjoint des cadres hospitaliers de classe supérieure;16/06/2011;
+1263;Adjoint des cadres hospitaliers de classe normale;16/06/2011;
+1312;Adjoint administratif hospitalier de 1ère classe e5;01/11/2006;08/08/2007
+1313;Adjoint administratif hospitalier principal e6;01/11/2006;08/08/2007
+1314;Adjoint administratif;01/01/2017;
+1315;Adjoint administratif hospitalier principal de 1ère classe;08/08/2007;01/01/2017
+1316;Adjoint administratif hospitalier principal de 2ème classe;08/08/2007;01/01/2017
+1317;Adjoint administratif principal de 2e classe;01/01/2017;
+1326;Adjoint administratif hospitalier de 1ère classe;08/08/2007;01/01/2017
+1327;Adjoint administratif principal de 1re classe;01/01/2017;
+1332;Chef de standard téléphonique e5;01/11/2006;08/08/2007
+1333;Chef de standard téléphonique principal e6;01/11/2006;08/08/2007
+1353;Secrétaire médicale de classe exceptionnelle;01/01/1990;16/06/2011
+1361;Assistant médico-administratif de classe exceptionnelle;16/06/2011;
+1362;Assistant médico-administratif de classe supérieure;16/06/2011;
+1363;Assistant médico-administratif de classe normale;16/06/2011;
+1370;Aumônier;01/01/1900;01/01/2017
+1412;Adjoint administratif hospitalier de 2ème classe e4;01/11/2006;08/08/2007
+1423;Adjoint administratif hospitalier de 2ème classe;08/08/2007;01/01/2017
+1437;Standardiste (r e2 + e3);27/02/2006;08/08/2007
+1451;Secrétaire médicale de classe normale;01/01/1990;16/06/2011
+1461;Secrétaire médicale de classe supérieure;01/01/1990;16/06/2011
+1506;Agent administratif (r e2 + e3);27/02/2006;08/08/2007
+1561;Permanencier auxiliaire de régulation médicale e4 (cadre d'extinction);01/11/2006;01/01/2017
+1562;Permanencier auxiliaire de régulation médicale principal e5 (cadre d'extinction);01/11/2006;01/01/2017
+1563;Permanencier auxiliaire de régulation médicale chef e6 (cadre d'extinction);01/11/2006;01/01/2017
+1568;Permanencier auxiliaire de régulation médicale de 2ème classe (cadre d'extinction);01/01/2017;
+1569;Permanencier auxiliaire de régulation médicale de 1re classe (cadre d'extinction);01/01/2017;
+1611;Directeur des soins coordonnateur général de 1ère classe;01/01/2002;10/01/2014
+1612;Directeur des soins services infirmiers de 1ère classe;01/01/2002;10/01/2014
+1613;Directeur des soins activités de rééducation de 1ère classe;01/01/2002;10/01/2014
+1614;Directeur des soins activités médico-techniques de 1ère classe;01/01/2002;10/01/2014
+1615;Directeur des soins directeur d'institut de formation de cadre de 1ère classe;01/01/2002;10/01/2014
+1616;Directeur des soins directeur d'institut de formation de 1ère classe;01/01/2002;10/01/2014
+1621;Directeur des soins coordonnateur général de 2ème classe;01/01/2002;10/01/2014
+1622;Directeur des soins services infirmiers de 2ème classe;01/01/2002;10/01/2014
+1623;Directeur des soins activités de rééducation de 2ème classe;01/01/2002;10/01/2014
+1624;Directeur des soins activités médico-techniques de 2ème classe;01/01/2002;10/01/2014
+1625;Directeur des soins directeur d'institut de formation de cadre de 2ème classe;01/01/2002;10/01/2014
+1626;Directeur des soins directeur d'institut de formation de 2ème classe;01/01/2002;10/01/2014
+1627;Emploi fonctionnel / directeur des soins, coordonnateur gén. act. soins infirmiers, rééducation, médico-techniques Gpe II;10/01/2014;
+1628;Emploi fonctionnel / directeur des soins coordonnateur gén. act. formation dans un ou plusieurs groupes d'instituts de formation Gpe II;10/01/2014;
+1629;Emploi fonctionnel / directeur des soins, coordonnateur gén. act. soins infirmiers, rééducation, médico-techniques Gpe I;10/01/2014;
+1630;Directeur des soins classe normale, coordination gén. act. soins infirmiers, rééducation, médico-techniques;10/01/2014;
+1631;Directeur des soins classe normale, direction d'un institut de formation ou coordination gén. de plusieurs instituts de formation;10/01/2014;
+1632;Directeur des soins hors classe, coordination générale act. soins infirmiers, rééducation, médico-techniques;10/01/2014;
+1633;Directeur des soins hors classe, direction d'un institut de formation ou coordination gén. de plusieurs instituts de formation;10/01/2014;
+1634;Directeur des soins de classe exceptionnelle, coordination générale des activités de soins infirmiers, de rééducation et médico-techniques;01/04/2022;
+1635;Directeur des soins de classe exceptionnelle, direction d'un institut de formation ou coordination générale de plusieurs instituts de formations;01/04/2022;
+1801;Infirmier cadre de santé paramédical;29/12/2012;
+1802;Infirmier de bloc opératoire cadre de santé paramédical;29/12/2012;
+1803;Infirmier anesthésiste cadre de santé paramédical;29/12/2012;
+1804;Puéricultrice cadre de santé paramédical;29/12/2012;
+1811;Pédicure-podologue cadre de santé paramédical;29/12/2012;
+1812;Masseur-kinésithérapeute cadre de santé paramédical;29/12/2012;
+1813;Ergothérapeute cadre de santé paramédical;29/12/2012;
+1814;Psychomotricien cadre de santé paramédical;29/12/2012;
+1815;Orthophoniste cadre de santé paramédical;29/12/2012;
+1816;Orthoptiste cadre de santé paramédical;29/12/2012;
+1817;Diététicien cadre de santé paramédical;29/12/2012;
+1821;Préparateur en pharmacie hospitalière cadre de santé paramédical;29/12/2012;
+1822;Technicien de laboratoire médical cadre de santé paramédical;29/12/2012;
+1823;Manipulateur d'électroradiologie médicale cadre de santé paramédical;29/12/2012;
+1901;Infirmier cadre de santé hors classe de catégorie sédentaire;01/10/2021;
+1902;Infirmier de bloc opératoire cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1903;Infirmier anesthésiste cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1904;Puéricultrice cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1911;Pédicure-podologue cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1912;Masseur-kinésithérapeute cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1913;Ergothérapeute cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1914;Psychomotricien cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1915;Orthophoniste cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1916;Orthoptiste cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1917;Diététicien cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1921;Préparateur en pharmacie hospitalière cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1922;Technicien de laboratoire cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1923;Manipulateur d'électroradiologie médicale cadre de santé hors-classe de catégorie sédentaire;01/10/2021;
+1941;Infirmier cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1942;Infirmier de bloc opératoire cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1943;Infirmier anesthésiste cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1944;Puéricultrice cadre de santé hors-classe de catégorie sédentaire, monitrice;01/10/2021;
+1951;Pédicure-podologue cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1952;Masseur-kinésithérapeute cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1953;Ergothérapeute cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1954;Psychomotricien cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1955;Orthophoniste cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1956;Orthoptiste cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1957;Diététicien cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1961;Préparateur en pharmacie hospitalière cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1962;Technicien de laboratoire cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+1963;Manipulateur d'électroradiologie médicale cadre de santé hors-classe de catégorie sédentaire, moniteur;01/10/2021;
+2001;Infirmier cadre supérieur de santé;01/01/2002;29/12/2012
+2002;Infirmier de bloc opératoire cadre supérieur de santé;01/01/2002;29/12/2012
+2003;Infirmier anesthésiste cadre supérieur de santé;01/01/2002;29/12/2012
+2004;Puéricultrice cadre supérieur de santé;01/01/2002;29/12/2012
+2011;Pédicure-podologue cadre supérieur de santé;01/01/2002;29/12/2012
+2012;Masseur-kinésithérapeute cadre supérieur de santé;01/01/2002;29/12/2012
+2013;Ergothérapeute cadre supérieur de santé;01/01/2002;29/12/2012
+2014;Psychomotricien cadre supérieur de santé;01/01/2002;29/12/2012
+2015;Orthophoniste cadre supérieur de santé;01/01/2002;29/12/2012
+2016;Orthoptiste cadre supérieur de santé;01/01/2002;29/12/2012
+2017;Diététicien cadre supérieur de santé;01/01/2002;29/12/2012
+2021;Préparateur en pharmacie hospitalière cadre supérieur de santé;01/01/2002;29/12/2012
+2022;Technicien de laboratoire cadre supérieur de santé;01/01/2002;29/12/2012
+2023;Manipulateur d'électroradiologie médicale cadre supérieur de santé;01/01/2002;29/12/2012
+2041;Infirmier cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2042;Infirmier de bloc opératoire cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2043;Infirmier anesthésiste cadre supérieur de la santé, moniteur;01/01/2002;29/12/2012
+2044;Puéricultrice cadre supérieur de la santé, monitrice;01/01/2002;29/12/2012
+2051;Pédicure-podologue, cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2052;Masseur-kinésithérapeute cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2053;Ergothérapeute cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2054;Psychomotricien cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2055;Orthophoniste cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2056;Orthoptiste cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2057;Diététicien cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2061;Préparateur en pharmacie hospitalière cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2062;Technicien de laboratoire cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2063;Manipulateur d'électroradiologie cadre supérieur de santé, moniteur;01/01/2002;29/12/2012
+2137;Directrice d'école préparant au diplôme d'état de sage-femme;01/01/2002;27/12/2014
+2138;Directrice d'école préparant au certificat cadre sage-femme;01/01/2002;27/12/2014
+2154;Grade 1 ISGS Infirmier en soins généraux (DE);01/12/2010;
+2155;Grade 1 ISGS Infirmier en soins généraux (Psychiatrique);01/12/2010;
+2164;Grade 2 ISGS Infirmier en soins généraux (DE);01/12/2010;
+2165;Grade 2 ISGS Infirmier en soins généraux (Psychiatrique);01/12/2010;
+2176;Grade de classe normale des auxiliaires médicaux exerçant en pratique avancée de cat. A;01/04/2020;
+2177;Grade de classe supérieure des auxiliaires médicaux exerçant en pratique avancée de cat. A;01/04/2020;
+2212;Sage-femme cadre supérieur;01/01/2002;27/12/2014
+2217;Sage-femme cadre supérieur, monitrice d'école de cadres;01/01/2002;27/12/2014
+2221;Sage-femme des hôpitaux du premier grade;27/12/2014;
+2223;Sage-femme des hôpitaux du second grade;27/12/2014;
+2224;Sage-femme des hôpitaux du second grade, directrice de structure de formation;27/12/2014;
+2228;Coordonnateur en maïeutique, assistant responsable d'un pôle obstétrique;27/12/2014;27/12/2014
+2229;Coordonnateur en maïeutique;27/12/2014;
+2233;Coordonnateur en maïeutique, directeur de structure de formation;27/12/2014;
+2253;Préparateur en pharmacie hospitalière de classe normale;30/06/2011;26/01/2022
+2254;Préparateur en pharmacie hospitalière de classe supérieure;30/06/2011;26/02/2022
+2257;Préparateur en pharmacie hospitalière de classe normale;01/01/2002;30/06/2011
+2258;Préparateur en pharmacie hospitalière de classe supérieure;01/01/2002;30/06/2011
+2319;Sage-femme cadre;01/01/2002;27/12/2014
+2334;Sage-femme de classe normale;01/01/2002;27/12/2014
+2335;Sage-femme de classe supérieure;01/01/2002;27/12/2014
+2336;Sage-femme cadre, monitrice d'école sf;01/01/2002;27/12/2014
+2403;Technicien de laboratoire médical de classe normale;30/06/2011;26/01/2022
+2404;Manipulateur d'électroradiologie médicale de classe normale (cadre d'extinction);30/06/2011;01/09/2017
+2430;Infirmier anesthésiste d.e. de classe normale;01/01/2002;01/07/2012
+2432;Infirmier d.e. de classe normale (cadre d'extinction);01/01/2002;01/12/2010
+2437;Infirmier psychiatrique de classe normale (cadre d'extinction);01/01/2002;01/12/2010
+2440;Puéricultrice d.e. de classe normale;01/01/2002;01/07/2012
+2450;Pédicure-podologue de classe normale;01/01/2002;30/06/2011
+2452;Masseur-kinésithérapeute de classe normale;01/01/2002;30/06/2011
+2453;Ergothérapeute de classe normale;01/01/2002;30/06/2011
+2454;Psychomotricien de classe normale;01/01/2002;30/06/2011
+2455;Orthophoniste de classe normale;01/01/2002;30/06/2011
+2456;Orthoptiste de classe normale;01/01/2002;30/06/2011
+2457;Diététicien de classe normale;01/01/2002;30/06/2011
+2458;Technicien de laboratoire de classe normale;01/01/2002;30/06/2011
+2459;Manipulateur d'électroradiologie médicale de classe normale;01/01/2002;30/06/2011
+2460;Infirmier de bloc opératoire de classe normale;01/01/2002;01/07/2012
+2601;Cadre socio-éducatif;29/03/1993;14/05/2007
+2602;Cadre socio-éducatif;14/05/2007;01/02/2019
+2603;Cadre supérieur socio-éducatif;14/05/2007;01/02/2019
+2604;Assistant socio-éducatif - éducateur spécialisé de classe normale du premier grade;01/02/2019;
+2605;Assistant socio-éducatif - assistant de service social de classe normale du premier grade;01/02/2019;
+2606;Cadre socio-éducatif;01/02/2019;
+2607;Cadre supérieur socio-éducatif;01/02/2019;
+2608;Cadre socio-éducatif de classe exceptionnelle;01/02/2019;
+2611;Assistant socio-éducatif - éducateur spécialisé;01/01/1993;07/02/2014
+2612;Assistant socio-éducatif - assistant de service social;01/01/1993;07/02/2014
+2613;Assistant socio-éducatif - éducateur spécialisé;07/02/2014;01/02/2019
+2614;Assistant socio-éducatif - assistant de service social;07/02/2014;01/02/2019
+2615;Assistant socio-éducatif principal - éducateur spécialisé;07/02/2014;01/02/2019
+2616;Assistant socio-éducatif principal - assistant de service social;07/02/2014;01/02/2019
+2617;Assistant socio-éducatif - éducateur spécialisé de classe supérieure du premier grade;01/02/2019;
+2618;Assistant socio-éducatif - assistant de service social de classe supérieure du premier grade;01/02/2019;
+2619;Assistant socio-éducatif - éducateur spécialisé du second grade;01/02/2019;
+2620;Assistant socio-éducatif - assistant de service social du second grade;01/02/2019;
+2621;Conseiller en économie sociale et familiale;01/01/1993;07/02/2014
+2622;Conseiller en économie sociale et familiale principal;01/01/1993;07/02/2014
+2623;Conseiller en économie sociale et familiale de classe normale;07/02/2014;01/02/2019
+2624;Conseiller en économie sociale et familiale de classe supérieure;07/02/2014;01/02/2019
+2625;Conseiller en économie sociale et familiale de classe normale du premier grade;01/02/2019;
+2626;Conseiller en économie sociale et familiale de classe supérieure du premier grade;01/02/2019;
+2627;Conseiller en économie sociale et familiale du second grade;01/02/2019;
+2631;Animateur;01/08/1994;07/02/2014
+2632;Animateur;07/02/2014;
+2633;Animateur principal de 2e classe;07/02/2014;
+2634;Animateur principal de 1re classe;07/02/2014;
+2641;Educateur technique spécialisé;29/03/1993;08/08/2007
+2642;Educateur technique spécialisé de classe normale;08/08/2007;07/02/2014
+2643;Educateur technique spécialisé de classe supérieure;08/08/2007;07/02/2014
+2644;Educateur technique spécialisé de classe normale;07/02/2014;01/02/2019
+2645;Educateur technique spécialisé de classe supérieure;07/02/2014;01/02/2019
+2646;Educateur technique spécialisé de classe normale du premier grade;01/02/2019;
+2647;Educateur technique spécialisé de classe supérieure du premier grade;01/02/2019;
+2648;Educateur technique spécialisé du second grade;01/02/2019;
+2649;Educateur de jeunes enfants de classe normale;08/08/2007;07/02/2014
+2650;Educateur de jeunes enfants de classe supérieure;08/08/2007;07/02/2014
+2657;Educateur de jeunes enfants de classe normale;01/08/1997;08/08/2007
+2658;Educateur de jeunes enfants de classe supérieure;01/08/1997;08/08/2007
+2659;Educateur de jeunes enfants de classe exceptionnelle;01/08/1997;08/08/2007
+2661;Moniteur-éducateur;01/08/1995;07/02/2014
+2662;Moniteur-éducateur;07/02/2014;
+2663;Moniteur-éducateur principal;07/02/2014;
+2665;Moniteur d'atelier (cadre d'extinction);29/03/1993;
+2670;Educateur de jeunes enfants de classe normale;07/02/2014;01/02/2019
+2671;Educateur de jeunes enfants de classe supérieure;07/02/2014;01/02/2019
+2672;Educateur de jeunes enfants de classe normale du premier grade;01/02/2019;
+2673;Educateur de jeunes enfants de classe supérieure du premier grade;01/02/2019;
+2674;Educateur de jeunes enfants du second grade;01/02/2019;
+2700;Infirmier anesthésiste d.e. de classe supérieure;01/01/2002;01/07/2012
+2717;Infirmier de bloc opératoire de classe supérieure;01/01/2002;01/07/2012
+2719;Puéricultrice d.e. de classe supérieure;01/01/2002;01/07/2012
+2724;Ergothérapeute de classe supérieure;01/01/2002;30/06/2011
+2730;Orthophoniste de classe supérieure;01/01/2002;30/06/2011
+2731;Psychomotricien de classe supérieure;01/01/2002;30/06/2011
+2732;Masseur-kinésithérapeute de classe supérieure;01/01/2002;30/06/2011
+2734;Pédicure-podologue de classe supérieure;01/01/2002;30/06/2011
+2749;Manipulateur d'électroradiologie médicale de classe supérieure;01/01/2002;30/06/2011
+2753;Infirmier d.e. de classe supérieure (cadre d'extinction);01/01/2002;01/12/2010
+2758;Infirmier psychiatrique de classe supérieure (cadre d'extinction);01/01/2002;01/12/2010
+2760;Manipulateur d'électroradiologie médicale de classe normale;01/09/2017;
+2761;Technicien de laboratoire médical de classe supérieure;30/06/2011;26/01/2022
+2762;Manipulateur d'électroradiologie médicale de classe supérieure (cadre d'extinction);30/06/2011;01/09/2017
+2764;Manipulateur d'électroradiologie médicale de classe supérieure;01/09/2017;
+2766;Orthoptiste de classe supérieure;01/01/2002;30/06/2011
+2767;Diététicien de classe supérieure;01/01/2002;30/06/2011
+2768;Technicien de laboratoire de classe supérieure;01/01/2002;30/06/2011
+2771;Technicien de laboratoire médical de classe normale;26/01/2022;
+2772;Technicien de laboratoire médical de classe supérieure;26/01/2022;
+2773;Préparateur en pharmacie hospitalière de classe normale;26/01/2022;
+2776;Préparateur en pharmacie hospitalière de classe supérieure;26/01/2022;
+2801;Infirmier cadre de santé;01/01/2002;29/12/2012
+2802;Infirmier de bloc opératoire cadre de santé;01/01/2002;29/12/2012
+2803;Infirmier anesthésiste cadre de santé;01/01/2002;29/12/2012
+2804;Puéricultrice cadre de santé;01/01/2002;29/12/2012
+2811;Pédicure-podologue cadre de santé;01/01/2002;29/12/2012
+2812;Masseur-kinésithérapeute, cadre de santé;01/01/2002;29/12/2012
+2813;Ergothérapeute cadre de santé;01/01/2002;29/12/2012
+2814;Psychomotricien, cadre de santé;01/01/2002;29/12/2012
+2815;Orthophoniste cadre de santé;01/01/2002;29/12/2012
+2816;Orthoptiste cadre de santé;01/01/2002;29/12/2012
+2817;Diététicien cadre de santé;01/01/2002;29/12/2012
+2821;Préparateur en pharmacie hospitalière cadre de santé;01/01/2002;29/12/2012
+2822;Technicien de laboratoire cadre de santé;01/01/2002;29/12/2012
+2823;Manipulateur d'électroradiologie médicale cadre de santé;01/01/2002;29/12/2012
+2841;Infirmier cadre de santé, moniteur;01/01/2002;29/12/2012
+2842;Infirmier de bloc opératoire cadre de santé, moniteur;01/01/2002;29/12/2012
+2843;Infirmier anesthésiste cadre de santé, moniteur;01/01/2002;29/12/2012
+2844;Puéricultrice cadre de santé, monitrice;01/01/2002;29/12/2012
+2851;Pédicure-podologue cadre de santé, moniteur;01/01/2002;29/12/2012
+2852;Masseur-kinésithérapeute cadre de santé, moniteur;01/01/2002;29/12/2012
+2853;Ergothérapeute cadre de santé, moniteur;01/01/2002;29/12/2012
+2854;Psychomotricien cadre de santé, moniteur;01/01/2002;29/12/2012
+2855;Orthophoniste cadre de santé, moniteur;01/01/2002;29/12/2012
+2856;Orthoptiste cadre de santé, moniteur;01/01/2002;29/12/2012
+2857;Diététicien cadre de santé, moniteur;01/01/2002;29/12/2012
+2861;Préparateur en pharmacie hospitalière cadre de santé, moniteur;01/01/2002;29/12/2012
+2862;Technicien de laboratoire cadre de santé, moniteur;01/01/2002;29/12/2012
+2863;Manipulateur d'électroradiologie médicale cadre de santé, moniteur;01/01/2002;29/12/2012
+2911;Elève infirmier d.e. / formation professionnelle;01/01/1900;
+2921;Elève éducateur spécialisé;01/01/1900;
+2922;Elève aide-soignant / formation professionnelle;01/01/1900;
+2925;Elève stagiaire éducateur spécialisé;01/01/1900;
+2931;Elève moniteur éducateur;01/01/1900;
+2940;Grade 2 ISGS Infirmier de bloc opératoire;01/07/2012;
+2941;Pédicure-podologue de classe normale (cadre d'extinction);30/06/2011;01/09/2017
+2942;Masseur-kinésithérapeute de classe normale (cadre d'extinction);30/06/2011;01/09/2017
+2943;Ergothérapeute de classe normale (cadre d'extinction);30/06/2011;01/09/2015
+2944;Psychomotricien de classe normale (cadre d'extinction);30/06/2011;01/09/2017
+2945;Orthophoniste de classe normale (cadre d'extinction);30/06/2011;01/09/2017
+2946;Orthoptiste de classe normale (cadre d'extinction);30/06/2011;01/09/2017
+2947;Diététicien de classe normale;30/06/2011;26/01/2022
+2948;Grade 3 ISGS Infirmier de bloc opératoire;01/07/2012;
+2949;Ergothérapeute de classe normale;01/09/2015;
+2950;Grade 2 ISGS Puéricultrice;01/07/2012;
+2951;Pédicure-podologue de classe supérieure (cadre d'extinction);30/06/2011;01/09/2017
+2952;Masseur-kinésithérapeute de classe supérieure (cadre d'extinction);30/06/2011;01/09/2017
+2953;Ergothérapeute de classe supérieure (cadre d'extinction);30/06/2011;01/09/2015
+2954;Psychomotricien de classe supérieure (cadre d'extinction);30/06/2011;01/09/2017
+2955;Orthophoniste de classe supérieure (cadre d'extinction);30/06/2011;01/09/2017
+2956;Orthoptiste de classe supérieure (cadre d'extinction);30/06/2011;01/09/2017
+2957;Diététicien de classe supérieure;30/06/2011;26/01/2022
+2958;Grade 3 ISGS Puéricultrice;01/07/2012;
+2959;Ergothérapeute de classe supérieure;01/09/2015;
+2960;Grade 3 ISGS Infirmier anesthésiste;01/07/2012;01/07/2017
+2961;Infirmier anesthésiste Grade 1;01/07/2017;
+2962;Infirmier anesthésiste Grade 2;01/07/2017;
+2963;Pédicure-podologue de classe normale;01/09/2017;
+2964;Orthoptiste de classe normale;01/09/2017;
+2965;Grade 4 ISGS Infirmier anesthésiste;01/07/2012;01/07/2017
+2966;Masseur-kinésithérapeute de classe normale;01/09/2017;
+2967;Orthophoniste de classe normale;01/09/2017;
+2968;Psychomotricien de classe normale;01/09/2017;
+2969;Diététicien de classe normale;26/01/2022;
+2973;Pédicure-podologue de classe supérieure;01/09/2017;
+2974;Orthoptiste de classe supérieure;01/09/2017;
+2976;Masseur-kinésithérapeute de classe supérieure;01/09/2017;
+2977;Orthophoniste de classe supérieure;01/09/2017;
+2978;Psychomotricien de classe supérieure;01/09/2017;
+2979;Diététicien de classe supérieure;26/01/2022;
+3001;Aide-soignant de classe normale e4;25/06/2007;01/01/2017
+3002;Aide-soignant de classe supérieure e5;25/06/2007;01/01/2017
+3003;Aide-soignant de classe exceptionnelle e6;25/06/2007;01/01/2017
+3005;Auxiliaire de puériculture de classe normale e4;25/06/2007;01/01/2017
+3006;Auxiliaire de puériculture de classe supérieure e5;25/06/2007;01/01/2017
+3007;Auxiliaire de puériculture de classe exceptionnelle e6;25/06/2007;01/01/2017
+3008;Aide médico-psychologique de classe normale e4;25/06/2007;01/01/2017
+3009;Aide médico-psychologique de classe supérieure e5;25/06/2007;01/01/2017
+3010;Aide médico-psychologique de classe exceptionnelle e6;25/06/2007;01/01/2017
+3021;Aide-soignant;01/01/2017;01/10/2021
+3022;Aide-soignant principal;01/01/2017;01/10/2021
+3025;Auxiliaire de puériculture;01/01/2017;01/10/2021
+3026;Auxiliaire de puériculture principal;01/01/2017;01/10/2021
+3028;Aide médico-psychologique et accompagnant éducatif et social;01/01/2017;01/01/2022
+3029;Aide médico-psychologique et accompagnant éducatif et social principal;01/01/2017;01/01/2022
+3112;Aide préparateur en pharmacie e5 (cadre d'extinction);01/01/1989;01/01/2017
+3114;Aide technique de laboratoire e5 (cadre d'extinction);01/01/1989;01/01/2017
+3115;Aide technique d'électroradiologie e5 (cadre d'extinction);31/10/2001;01/01/2017
+3121;Aide-soignant de classe normale e3;01/01/1999;
+3122;Aide-soignant de classe supérieure e4;01/01/1999;
+3123;Aide-soignant de classe exceptionnelle e5;01/01/1999;
+3125;Auxiliaire de puériculture de classe normale e3;01/01/1999;
+3126;Auxiliaire de puériculture de classe supérieure e4;01/01/1999;
+3127;Auxiliaire de puériculture de classe exceptionnelle e5;01/01/1999;
+3128;Aide médico-psychologique de classe normale e3;01/01/1999;
+3129;Aide médico-psychologique de classe supérieure e4;01/01/1999;
+3130;Aide médico-psychologique de classe exceptionnelle e5;01/01/1999;
+3132;Aide de pharmacie de classe supérieure e4 (cadre d'extinction);31/10/2001;01/01/2017
+3133;Aide de laboratoire de classe supérieure e4 (cadre d'extinction);31/10/2001;01/01/2017
+3141;Aide de pharmacie de classe normale e3 (cadre d'extinction);31/10/2001;01/01/2017
+3143;Aide de laboratoire de classe normale e3 (cadre d'extinction);31/10/2001;01/01/2017
+3150;Aide de laboratoire de classe normale (cadre d'extinction);01/01/2017;
+3152;Aide de laboratoire de classe supérieure (cadre d'extinction);01/01/2017;
+3153;Aide de pharmacie de classe normale (cadre d'extinction);01/01/2017;
+3155;Aide de pharmacie de classe supérieure (cadre d'extinction);01/01/2017;
+3156;Aide d'électroradiologie de classe normale (cadre d'extinction);01/01/2017;
+3157;Aide d'électroradiologie de classe supérieure (cadre d'extinction);01/01/2017;
+3165;Aide d'électroradiologie de classe normale e3 (cadre d'extinction);31/10/2001;01/01/2017
+3166;Aide d'électroradiologie de classe supérieure e4 (cadre d'extinction);31/10/2001;01/01/2017
+3251;Agent des services hospitaliers qualifié ( r );27/02/2006;25/06/2007
+3256;Agent des services hospitaliers qualifié de classe normale;25/06/2007;01/01/2017
+3257;Agent des services hospitaliers qualifié de classe supérieure;28/12/2014;01/01/2017
+3258;Agent des services hospitaliers qualifié de classe supérieure;01/01/2017;01/01/2022
+3259;Agent des services hospitaliers qualifié de classe normale;01/01/2017;01/01/2022
+3300;Aide-soignant de classe normale de catégorie B;01/10/2021;
+3301;Aide-soignant de classe supérieure de catégorie B;01/10/2021;
+3302;Auxiliaire de puériculture de classe normale de catégorie B;01/10/2021;
+3303;Auxiliaire de puériculture de classe supérieure de catégorie B;01/10/2021;
+3310;Accompagnant éducatif et social;01/01/2022;
+3311;Accompagnant éducatif et social principal;01/01/2022;
+3312;Agent des services hospitaliers qualifié de la classe normale;01/01/2022;
+3313;Agent des services hospitaliers qualifié de classe supérieure;01/01/2022;
+4103;Agent chef de 1ère catégorie;11/11/2001;25/06/2007
+4104;Agent chef de classe exceptionnelle;25/06/2007;30/06/2011
+4107;Agent chef de 2ème catégorie;11/11/2001;25/06/2007
+4108;Agent chef de 1ère catégorie;25/06/2007;30/06/2011
+4109;Agent chef de 2ème catégorie;25/06/2007;30/06/2011
+4110;Agent de maîtrise;01/01/2017;
+4112;Contremaître principal;01/08/1990;08/08/2007
+4114;Agent de maîtrise principal;01/01/2017;
+4115;Agent de maîtrise e5;08/08/2007;01/01/2017
+4116;Agent de maîtrise principal e6;08/08/2007;01/01/2017
+4122;Contremaître e5;01/08/1990;08/08/2007
+4132;Agent technique d'entretien e5;01/11/2006;08/08/2007
+4133;Agent technique d'entretien principal e6;01/11/2006;08/08/2007
+4142;Chef de garage e5;01/11/2006;08/08/2007
+4145;Chef de garage principal e6;01/11/2006;08/08/2007
+4200;Agent d'entretien qualifié;01/01/2017;
+4202;Maître ouvrier e5;01/11/2006;08/08/2007
+4203;Ouvrier principal de 2ème classe;01/01/2017;
+4205;Ouvrier principal de 1ère classe;01/01/2017;
+4207;Maître ouvrier e5;08/08/2007;01/01/2017
+4222;Maître ouvrier principal e6;01/11/2006;08/08/2007
+4223;Maître ouvrier principal e6;08/08/2007;01/01/2017
+4301;Ouvrier professionnel spécialisé;01/08/1990;
+4302;Ouvrier professionnel qualifié;01/08/1990;25/06/2007
+4304;Ouvrier professionnel qualifié e4;25/06/2007;01/01/2017
+4306;Buandier spécialisé;01/08/1990;
+4307;Buandier qualifié;01/08/1990;25/06/2007
+4309;Buandier qualifié e4;25/06/2007;01/01/2017
+4323;Conducteur ambulancier de 2ème catégorie e4;01/11/2006;01/01/2017
+4324;Conducteur ambulancier de 1ère catégorie e5;01/11/2006;01/01/2017
+4326;Conducteur d'automobile de 1ère catégorie e3;27/02/2006;
+4327;Conducteur d'automobile hors catégorie e4;27/02/2006;25/06/2007
+4328;Conducteur ambulancier hors catégorie e6;01/11/2006;01/01/2017
+4330;Conducteur ambulancier;01/01/2017;01/01/2023
+4338;Ambulancier;01/01/1900;
+4339;Ambulancier principal;01/01/1900;
+4340;Conducteur ambulancier principal;01/01/2017;01/01/2023
+4342;Agent de service mortuaire et de désinfection de 2ème catégorie;11/11/2001;
+4343;Agent de service mortuaire et de désinfection de 1ère catégorie;11/11/2001;25/06/2007
+4348;Agent de service mortuaire et de désinfection de 1ère catégorie e4 (cadre d'extinction);25/06/2007;01/01/2017
+4433;Agent d'entretien qualifié;27/02/2006;08/08/2007
+4437;Agent d'entretien qualifié e3;08/08/2007;01/01/2017
+5171;Directeur de crih - circulaire 1986;01/01/1986;
+5176;Responsable d'exploitation - circulaire 1986;01/01/1986;
+5179;Spécialiste en organisation ou technicien en organisation - circulaire 1986;01/01/1986;
+5182;Chef de projet - circulaire 1986;01/01/1986;
+5183;Chef de projet en organisation - circulaire 1986;01/01/1986;
+5185;Ingénieur en organisation - circulaire 1986;01/01/1986;
+5272;Analyste - circulaire 1986;01/01/1986;
+5274;Chef de salle - circulaire 1986;01/01/1986;
+5276;Gestionnaire de réseau - circulaire 1986;01/01/1986;
+5277;Technicien de maintenance ou imputeur de maintenance - circulaire 1986;01/01/1986;
+5279;Ingénieur système - circulaire 1986;01/01/1986;
+5315;Analyste programmeur - circulaire 1986;01/01/1986;
+5326;Programmeur système - circulaire 1986;01/01/1986;
+5327;Programmeur - circulaire 1986;01/01/1986;
+5328;Pupitreur - circulaire 1986;01/01/1986;
+5329;Préparateur de travaux - circulaire 1986;01/01/1986;
+5372;Chef de centre informatique, hopitaux - de 1000 lits - circulaire 1986;01/01/1986;
+5580;Responsable en organisation chr - circulaire 1986;01/01/1986;
+5610;Radiophysicien classe I;25/03/1991;01/07/2007
+5620;Radiophysicien classe II;25/03/1991;01/07/2007
+5630;Radiophysicien chef d 'unité;25/03/1991;01/07/2007
+5640;Radiophysicien;01/07/2007;
+5710;Ingénieur subdivisionnaire;01/01/1990;25/06/2007
+5715;Ingénieur hospitalier;25/06/2007;01/02/2024
+5716;Ingénieur;01/02/2024;
+5720;Ingénieur en chef;01/01/1990;25/06/2007
+5725;Ingénieur hospitalier principal;25/06/2007;01/02/2024
+5726;Ingénieur principal;01/02/2024;
+5730;Ingénieur en chef de 1ère catégorie seconde classe;01/01/1990;25/06/2007
+5735;Ingénieur hospitalier en chef de classe normale;25/06/2007;01/02/2024
+5736;Ingénieur hors classe;01/02/2024;
+5740;Ingénieur en chef de 1ère catégorie première classe;01/01/1990;25/06/2007
+5745;Ingénieur hospitalier en chef de classe exceptionnelle;25/06/2007;01/02/2024
+5746;Ingénieur en chef;01/02/2024;
+5750;Ingénieur en chef de 1ère catégorie hors classe;01/01/1990;25/06/2007
+5755;Ingénieur en chef hors classe;01/02/2024;
+5756;Ingénieur en chef de classe exceptionnelle;01/02/2024;
+5760;Ingénieur général;25/06/2007;01/02/2024
+5765;Ingénieur général;01/02/2024;
+5845;Technicien supérieur hospitalier;29/12/2003;30/06/2011
+5846;Technicien hospitalier;30/06/2011;
+5855;Technicien supérieur hospitalier principal;29/12/2003;30/06/2011
+5856;Technicien supérieur hospitalier de 2ème classe;30/06/2011;
+5865;Technicien supérieur hospitalier chef;29/12/2003;30/06/2011
+5866;Technicien supérieur hospitalier de 1ère classe;30/06/2011;
+5910;Dessinateur e4;01/11/2006;01/01/2017
+5916;Dessinateur (cadre d'extinction);01/01/2017;
+5920;Dessinateur chef de groupe e5;01/11/2006;01/01/2017
+5926;Dessinateur principal (cadre d'extinction);01/01/2017;
+5930;Dessinateur principal e6;01/11/2006;01/01/2017
+6012;Psychologue de classe normale;01/08/1996;
+6013;Psychologue hors classe;01/08/1996;
+13Z0;Aumônier;01/01/2017;
+42Z0;Buandier AEQ;01/01/2017;
+42Z3;Buandier principal de 2ème classe;01/01/2017;
+42Z5;Buandier principal de 1ère classe;01/01/2017;
+43Z8;Agent de service mortuaire et de désinfection de 1ère catégorie (cadre d'extinction);01/01/2017;
+ADM1;Autre personnel administratif;01/01/1900;
+D100;Famille d'accueil;01/01/1900;
+D200;Apprenti;01/01/1900;
+D300;Contrat d'insertion rma;01/01/2003;20/10/2008
+D301;Contrat emploi jeune;01/01/1997;31/12/2002
+D310;Contrat d'accompagnement dans l'emploi (cae);01/01/2005;01/01/2010
+D320;Contrat d'avenir (cav);01/01/2005;20/10/2008
+D330;Contrat aidé départemental;20/10/2008;
+D340;Contrat aidé expérimental;20/10/2008;
+D350;Contrat unique d'insertion;20/10/2008;
+D360;Contrat d'avenir;02/11/2012;
+D400;Formateur occasionnel;01/01/1900;
+D500;Assistante maternelle;01/01/1900;
+D550;Travailleur handicapé c.a.t;01/01/1900;
+D820;Contrat emploi solidarité (ces);01/01/1990;01/01/2010
+D821;Contrat emploi consolidé (cec);01/01/1992;01/01/2010
+D830;Contrat retour à l'emploi;01/01/1990;01/01/2010
+D999;Autre contrat aidé (service civique);01/01/1900;
+DIR1;Autre personnel de direction;01/01/1900;
+E100;Etudiant en soins infirmiers;01/01/1900;
+E201;Etudiant sage-femme;01/01/1900;10/10/2016
+E202;Etudiant sage-femme premier cycle;10/10/2016;
+E300;Elève manipulateur d'électroradiologie médicale;01/01/1900;
+E301;Elève ergothérapeute;01/01/1900;
+E302;Elève masseur-kinésithérapeute;01/01/1900;
+ECO1;Autre personnel des écoles;01/01/1900;
+INF1;Autre personnel informaticien;01/01/1900;
+MED1;Autre personnel des services soignants;01/01/1900;
+MED2;Autre personnel des services médico-techniques;01/01/1900;
+OUV1;Autre personnel ouvrier;01/01/1900;
+REE1;Autre personnel de rééducation;01/01/1900;
+SAG1;Autre personnel sage-femme;01/01/1900;
+SOC1;Autre personnel socio-éducatif;01/01/1900;
+TEC1;Autre personnel des services techniques;01/01/1900;
